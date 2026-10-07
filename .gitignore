@@ -1,0 +1,10 @@
+.venv/
+.runtime-test/
+__pycache__/
+*.py[cod]
+xray/
+*.zip
+*.log
+.env
+data/sabi_state.json
+data/scanned/

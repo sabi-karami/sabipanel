@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" role="img" aria-labelledby="title">
+  <title id="title">SABIPANEL</title>
+  <defs>
+    <linearGradient id="g" x1="20" y1="20" x2="170" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#d946ef"/>
+    </linearGradient>
+  </defs>
+  <rect x="12" y="12" width="156" height="156" rx="48" fill="#09090b"/>
+  <path d="M124 52c-13-11-31-17-51-17-33 0-56 18-56 43 0 23 17 36 49 43l16 3c14 4 20 8 20 15 0 10-10 16-27 16-18 0-34-6-49-19l-21 27c17 16 41 24 68 24 36 0 60-19 60-47 0-24-16-37-50-45l-15-3c-13-3-18-7-18-13 0-8 9-13 23-13 16 0 30 5 43 15z" fill="url(#g)" transform="translate(16 -10) scale(.88)"/>
+  <text x="205" y="112" fill="#f4f4f5" font-family="Inter,Arial,sans-serif" font-size="64" font-weight="800" letter-spacing="4">SABIPANEL</text>
+</svg>
